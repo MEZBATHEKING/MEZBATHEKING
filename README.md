@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @MEZBATHEKING
 - 👀 I’m interested in bot codding
 - 🌱 I’m currently learning javascript
-- 📫reach me at the goal of giveaway bot
+- 📫reach me at the goal of bots making
 - 🩸taking donations on paypal|paypal.me/gbot1234
-- 💬 my discord server https://discord.gg/bhXUF52zzQ 
+- 💬 my discord server (coming)
 - 👬 my best freind yasser Alshinawah 
-- 👨‍💻 develop bots in autocode,DBD
+- 👨‍💻 develop bots in autocode,DBD,PC(self hosting)
 - ✅ my github MEZBATHEKING 
 - 🎖 trying to reach at the top 🙂
 
