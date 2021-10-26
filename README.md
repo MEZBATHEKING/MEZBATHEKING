@@ -2,10 +2,10 @@
 - 👀 I’m interested in bot codding
 - 🌱 I’m currently learning javascript
 - 📫reach me at the goal of bots making
-- 🩸taking donations on paypal|paypal.me/gbot1234
+- 🩸taking donations on discord nitro
 - 💬 my discord server (coming)
-- 👬 my best freind yasser Alshinawah 
-- 👨‍💻 develop bots in autocode,DBD,PC(self hosting)
+- 👬 my best freind Null 
+- 👨‍💻 develop bots in js,css,html,fs,ts,py
 - ✅ my github MEZBATHEKING 
 - 🎖 trying to reach at the top 🙂
 
