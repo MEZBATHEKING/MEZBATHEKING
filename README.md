@@ -5,7 +5,8 @@
 - 🩸taking donations on discord nitro
 - 💬 my discord server (coming)
 - 👬 my best freind Null 
-- 👨‍💻 develop bots in js,css,html,fs,ts,py
+- 👨‍💻 develop bots in js,fs,ts,py
+- 🌐 Developing Websites in html,css,php
 - ✅ my github MEZBATHEKING 
 - 🎖 trying to reach at the top 🙂
 - 🙂 Status : ```High School```
