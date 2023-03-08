@@ -24,7 +24,7 @@ const Mezbatheking = {
 
    pronouns: "he" | "him" | "his",
 
-   code: [ JS , SHELL ],
+   code: [ JS , SHELL , HTML ],
 
    technologies: {
 
